@@ -1,0 +1,6 @@
+[submodule "UserControl"]
+	path = UserControl
+	url = https://github.com/LucassPimentel/UserControl.git
+[submodule "FinanceControl"]
+	path = FinanceControl
+	url = https://github.com/LucassPimentel/FinanceControl.git
