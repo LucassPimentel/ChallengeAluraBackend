@@ -25,12 +25,12 @@
 </div>
 <div>
    <h2>Features 👨‍💻</h2>
-   - ✅ <i>CRUD</i> de Receitas
-   - ✅ <i>CRUD</i> de Despesas
-   - ✅  Resumo de receitas e despesas
-   - ✅ Criação de conta 
-   - ✅ Login para acessar sistema de controle financeiro
-   - ✅ Endpoint para alterar a senha
+   <p>- ✅ <i>CRUD</i> de Receitas </p>
+   <p>- ✅ <i>CRUD</i> de Despesas </p>
+   <p>- ✅  Resumo de receitas e despesas </p>
+   <p>- ✅ Criação de conta</p> 
+   <p>- ✅ Login para acessar sistema de controle financeiro</p>
+   <p>- ✅ Endpoint para alterar a senha </p>
 </div>
 <div>
    <h2>Tecnologias e Recursos 🔧</h2>
