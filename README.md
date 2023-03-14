@@ -34,12 +34,12 @@
 </div>
 <div>
    <h2>Tecnologias e Recursos 🔧</h2>
-   <p>
-      - .NET 6
-      - C#
-      - Banco de Dados Relacional (SQLServer)
-      - Visual Studio
-   </p>
+   <div>
+      <p>- .NET 6</p>
+      <p>- C#</p>
+      <p>- Banco de Dados Relacional (SQLServer)</p>
+      <p>- Visual Studio </p>
+   </div>
 </div>
 <div>
    <h2>Como usar 🤔</h2>
