@@ -54,11 +54,7 @@
             crie a conta e efetue o login. Feito isso, um TOKEN será gerado, este é necessário para te autenticar e autorizar as ações
             conforme as permissões de seu usuário.
             
-            <img 
-                 width="731" 
-                 alt="Swagger_UserControl_Login" 
-                 src="https://github.com/LucassPimentel/ChallengeAluraBackend/assets/95232367/f6cfe649-9699-48e8-be18-99754b30d5f6"
-            >
+            <img width="731" alt="Swagger_UserControl_Login" src="https://github.com/LucassPimentel/ChallengeAluraBackend/assets/95232367/f6cfe649-9699-48e8-be18-99754b30d5f6">
          </p>
          </br>
          <p>
