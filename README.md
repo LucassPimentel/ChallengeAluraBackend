@@ -48,24 +48,21 @@
             Basta abrir os endpoints disponibilizados. Como padrão, a aplicação utiliza o Swagger, 
             mas as requisições podem ser feitas através de outras plataformas, como o Postman.
          </p>
-         </br>
+         </br> </br>     
          <p>
             Primeiro abra o link da aplicação <a href="https://usercontrol.up.railway.app/swagger/index.html">UserControl</a>, 
             crie a conta e efetue o login. Feito isso, um TOKEN será gerado, este é necessário para te autenticar e autorizar as ações
             conforme as permissões de seu usuário.
-            
-            <img width="731" alt="Swagger_UserControl_Login" src="https://github.com/LucassPimentel/ChallengeAluraBackend/assets/95232367/f6cfe649-9699-48e8-be18-99754b30d5f6">
          </p>
+         </br> 
+               <img width="900" alt="Swagger_UserControl_Login" src="https://github.com/LucassPimentel/ChallengeAluraBackend/assets/95232367/ae5fe6eb-9e83-40b4-9374-47d3f29754e3">
          </br>
+         </br> 
          <p>
            Pronto, agora você pode acessar a aplicação de <a href="https://financecontrol.up.railway.app/swagger/index.html">FinanceControl</a>, 
             inserir o TOKEN gerado no passo anterior no campo "Authorize" e executar as atividades disponíveis.
-   
-            <img 
-                 width="951" 
-                 alt="Swagger_FinanceControl_TOKEN" 
-                 src="https://github.com/LucassPimentel/ChallengeAluraBackend/assets/95232367/3d96fa78-d3ab-4de9-9185-dc8286c8cce7"
-            >
          </p>
+            <img width="900" alt="Swagger_FinanceControl_TOKEN" src="https://github.com/LucassPimentel/ChallengeAluraBackend/assets/95232367/47761c24-9c27-4c7f-8827-bc4106f2d9b2">
+         </br> 
       </div>
 </div>
