@@ -48,7 +48,7 @@
             Basta abrir os endpoints disponibilizados. Como padrão, a aplicação utiliza o Swagger, 
             mas as requisições podem ser feitas através de outras plataformas, como o Postman.
          </p>
-         </br> </br>     
+         </br> 
          <p>
             Primeiro abra o link da aplicação <a href="https://usercontrol.up.railway.app/swagger/index.html">UserControl</a>, 
             crie a conta e efetue o login. Feito isso, um TOKEN será gerado, este é necessário para te autenticar e autorizar as ações
