@@ -42,6 +42,10 @@
    </div>
 </div>
 <div>
+   <h2> 🚨 IMPORTANTE 🚨 </h2>
+   <p>Note que a aplicação pode sair do ar a qualquer momento, pois está sendo hospedada em plataformas com planos gratuitos e limitados, mas na virada dos meses a mesma volta ao ar.</p>
+</div>
+<div>
    <h2>Como usar 🤔</h2>
       <div>
          <p>
