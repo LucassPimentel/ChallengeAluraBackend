@@ -53,11 +53,23 @@
             Primeiro abra o link da aplicação <a href="https://usercontrol.up.railway.app/swagger/index.html">UserControl</a>, 
             crie a conta e efetue o login. Feito isso, um TOKEN será gerado, este é necessário para te autenticar e autorizar as ações
             conforme as permissões de seu usuário.
+            
+            <img 
+                 width="950" 
+                 alt="Swagger_UserControl_Login" 
+                 src="https://github.com/LucassPimentel/ChallengeAluraBackend/assets/95232367/f6cfe649-9699-48e8-be18-99754b30d5f6"
+            >
          </p>
          </br>
          <p>
            Pronto, agora você pode acessar a aplicação de <a href="https://financecontrol.up.railway.app/swagger/index.html">FinanceControl</a>, 
             inserir o TOKEN gerado no passo anterior no campo "Authorize" e executar as atividades disponíveis.
+   
+            <img 
+                 width="950" 
+                 alt="Swagger_FinanceControl_TOKEN" 
+                 src="https://github.com/LucassPimentel/ChallengeAluraBackend/assets/95232367/3d96fa78-d3ab-4de9-9185-dc8286c8cce7"
+            >
          </p>
       </div>
 </div>
