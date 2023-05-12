@@ -55,7 +55,7 @@
             conforme as permissões de seu usuário.
             
             <img 
-                 width="950" 
+                 width="731" 
                  alt="Swagger_UserControl_Login" 
                  src="https://github.com/LucassPimentel/ChallengeAluraBackend/assets/95232367/f6cfe649-9699-48e8-be18-99754b30d5f6"
             >
@@ -66,7 +66,7 @@
             inserir o TOKEN gerado no passo anterior no campo "Authorize" e executar as atividades disponíveis.
    
             <img 
-                 width="950" 
+                 width="951" 
                  alt="Swagger_FinanceControl_TOKEN" 
                  src="https://github.com/LucassPimentel/ChallengeAluraBackend/assets/95232367/3d96fa78-d3ab-4de9-9185-dc8286c8cce7"
             >
