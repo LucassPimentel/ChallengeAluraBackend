@@ -56,13 +56,12 @@
          </p>
          </br> 
                <img width="900" alt="Swagger_UserControl_Login" src="https://github.com/LucassPimentel/ChallengeAluraBackend/assets/95232367/ae5fe6eb-9e83-40b4-9374-47d3f29754e3">
-         </br>
-         </br> 
+         </br> </br> 
          <p>
            Pronto, agora você pode acessar a aplicação de <a href="https://financecontrol.up.railway.app/swagger/index.html">FinanceControl</a>, 
             inserir o TOKEN gerado no passo anterior no campo "Authorize" e executar as atividades disponíveis.
          </p>
-            <img width="900" alt="Swagger_FinanceControl_TOKEN" src="https://github.com/LucassPimentel/ChallengeAluraBackend/assets/95232367/47761c24-9c27-4c7f-8827-bc4106f2d9b2">
          </br> 
+            <img width="900" alt="Swagger_FinanceControl_TOKEN" src="https://github.com/LucassPimentel/ChallengeAluraBackend/assets/95232367/47761c24-9c27-4c7f-8827-bc4106f2d9b2">
       </div>
 </div>
