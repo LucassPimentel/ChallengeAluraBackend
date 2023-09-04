@@ -43,7 +43,7 @@
 </div>
 <div>
    <h2> 🚨 IMPORTANTE 🚨 </h2>
-   <p>Note que a aplicação pode sair do ar a qualquer momento, pois está sendo hospedada em plataformas com planos gratuitos e limitados, mas na virada dos meses a mesma volta ao ar.</p>
+   <p>Infelizmente a aplicação não está mais no ar, pois as plataformas gratuitas que eu utilizava para hospedar não disponibilizam mais planos gratuitos, mas o código segue aberto para visualização 😁.</p>
 </div>
 <div>
    <h2>Como usar 🤔</h2>
